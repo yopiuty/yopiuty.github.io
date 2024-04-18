@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "DALGONA"
+title                    : "달고나"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Dalgona"
-description              : "Very Delicious."
+name                     : "달고나"
+description              : "와! 너무 맛있는걸!"
 url                      : "https://yopiuty.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "DALGONA"
+  name             : "달고나"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**Very Delicious!!**"
+  bio              : "와! **너무** 맛있는걸!"
   location         : "South Korea"
-  email            :
+  email            : "gyuhyeokshon@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
