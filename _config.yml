@@ -107,7 +107,7 @@ author:
   name             : "달고나"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "와! **너무** 맛있는걸!"
-  location         : "South Korea"
+  location         : "South Korea (대한민국)"
   email            : "gyuhyeokshon@gmail.com"
   links:
     - label: "Email"
